@@ -14,9 +14,8 @@ meuportifolio/
 ├── README.md
 ├── index.html # Página do GitHub Pages
 ├── projetos-academicos/
-│ ├── projeto-1/
-│ └── projeto-2/
-└── documentacao/
+  ├── projeto-1/
+  └── projeto-2/
 
 ## 🚀 Projetos
 
