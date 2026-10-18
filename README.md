@@ -12,10 +12,10 @@ Sou Davi, estudante de análise e desenvolvimento de sistemas e estou construind
 
 meuportifolio/
 ├── README.md
-├── index.html # Página do GitHub Pages
-├── projetos-academicos/
-  ├── projeto-1/
-  └── projeto-2/
+├── index.html
+└── projetos-academicos/
+    ├── projeto-1/
+    └── projeto-2/
 
 ## 🚀 Projetos
 
